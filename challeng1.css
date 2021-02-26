@@ -1,0 +1,19 @@
+
+body{
+    background-color:#6fbff5;
+  font-size: x-large;
+  font-family: "Gill Sans",sans-serif;
+  margin:5%;
+
+}
+ul{
+    margin: 0 25%;
+    list-style-type: none;
+  
+  }
+  li::first-letter{
+
+    font-size: 38px;
+
+  }
+  
